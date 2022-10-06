@@ -1,0 +1,56 @@
+.cursor1{
+    cursor: grab;
+    background-color: palegreen;
+    }
+    .cursor2{
+    cursor: not-allowed;
+    font-size: 16px;
+    background-color: peachpuff;
+    }
+    .cursor3{
+    cursor: zoom-in;
+    font-size: 18px;
+    background-color: peru;
+    }
+    .cursor4{
+    cursor: zoom-out;
+    }
+    .cursor5{
+    cursor: e-resize;
+    }
+    .cursor6{
+    cursor: n-resize;
+    }
+    .cursor7{
+    cursor: s-resize;
+    }
+    .cursor8{
+    cursor: w-resize;
+    }
+    .cursor9{
+    cursor: alias;
+    }
+    .cursor10{
+    cursor: all-scroll;
+    }
+    .cursor11{
+    cursor: copy;
+    }
+    .cursor12{
+    cursor: help;
+    }
+    .cursor13{
+    cursor: move;
+    }
+    .cursor14{
+    cursor: none;
+    }
+    .cursor15{
+    cursor: wait;
+    }
+    .cursor16{
+    cursor: context-menu;
+    }
+    .cursor17{
+    cursor: pointer;
+    }
